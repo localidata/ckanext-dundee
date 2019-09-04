@@ -19,7 +19,7 @@
   font-family: 'Quicksand', sans-serif;
 }
 .hero {
-  background-color: #F19A2D;
+  background-color: #CC0066;
   background-image: url("../../../../base/images/background-tile.jpg");
 }
 .hero-search .image-credit {
@@ -35,7 +35,7 @@ body {
   background-color: #CC0066;
 }
 .homepage .module-search .tags {
-  background-color: #F19A2D;
+  background-color: #CC0066;
 }
 [role=main]:not(.hero),
 .main:not(.hero) {
@@ -125,22 +125,22 @@ input[type="color"]:focus {
 .nav-main .nav a:hover,
 .nav-main .nav a:focus {
   color: #ffffff;
-  background-color: #F19A2D;
+  background-color: #CC0066;
 }
 .nav-main .nav a:hover:before,
 .nav-main .nav a:focus:before {
   border-top: 17px solid #ffffff;
   border-bottom: 17px solid #ffffff;
-  border-left: 6px solid #F19A2D;
+  border-left: 6px solid #CC0066;
 }
 .nav-main .nav .active a {
   color: #ffffff;
-  background-color: #F19A2D;
+  background-color: #CC0066;
 }
 .nav-main .nav .active a:before {
   border-top: 17px solid #ffffff;
   border-bottom: 17px solid #ffffff;
-  border-left: 6px solid #F19A2D;
+  border-left: 6px solid #CC0066;
 }
 .secondary .nav > li a:hover {
   border-radius: 15px;
@@ -185,17 +185,17 @@ input[type="color"]:focus {
 }
 /* Search */
 .module-hero-search .search-input input {
-  border-color: #F19A2D;
+  border-color: #CC0066;
 }
 .module-hero-search .search-input input:focus {
   border-color: #CC0066;
 }
 .module-hero-search .search-input button i {
-  color: #F19A2D;
+  color: #CC0066;
 }
 /* Topics */
 .module-topics a {
-  color: #F19A2D;
+  color: #CC0066;
 }
 .news-header {
   font-family: 'Quicksand', sans-serif;
@@ -302,3 +302,5 @@ input[type="color"]:focus {
   border-top: none !important;
 }
 /*# sourceMappingURL=dundee.css.map */
+
+
